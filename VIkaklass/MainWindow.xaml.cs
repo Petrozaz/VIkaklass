@@ -22,6 +22,7 @@ namespace VIkaklass
     {
         public MainWindow()
         {
+            //ghhhghjgkgjkgj
             InitializeComponent();//jugigufugu
             //uiyuiguigyu
         }
