@@ -25,6 +25,7 @@ namespace VIkaklass
             //ghhhghjgkgjkgj
             InitializeComponent();//jugigufugu
             //uiyuiguigyu
+            //iuhuigig
         }
     }
 }
