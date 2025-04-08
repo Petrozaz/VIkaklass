@@ -22,7 +22,7 @@ namespace VIkaklass
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent();//jugigufugu
         }
     }
 }
